@@ -11,7 +11,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="点击我"
+            android:textColor="#FF83FA"
             android:layout_centerInParent="true"
-            android:background="#FF83FA"/>
+            android:background="#55FF83FA"/>
 
 </RelativeLayout>
