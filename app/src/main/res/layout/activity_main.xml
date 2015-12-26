@@ -5,6 +5,10 @@
         android:layout_height="match_parent"
         android:background="#33FF83FA">
 
+    <ImageView android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_hellokitty"/>
+
     <Button
             android:id="@+id/btn_wanzi"
             android:layout_width="wrap_content"
