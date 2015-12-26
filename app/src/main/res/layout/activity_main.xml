@@ -13,5 +13,13 @@
             android:textColor="#FF83FA"
             android:layout_centerInParent="true"/>
 
+    <TextView
+        android:id="@+id/tv_tip"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="@string/add_by_chetwyn" />
+
 
 </RelativeLayout>
